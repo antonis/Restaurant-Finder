@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DefaultLocale">
+        <ignore path="src/com/euapps/test/PlacesTask.java" />
+    </issue>
+    <issue id="MissingTranslation" severity="ignore" />
+</lint>

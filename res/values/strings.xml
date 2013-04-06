@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Restaurant Finder</string>
+    <string name="action_list">Show List</string>
+    <string name="action_more">Fetch More</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="no_data">No data</string>
+
+</resources>
